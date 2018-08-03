@@ -1,0 +1,10 @@
+{
+  "name": "stripe-charge",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "author": "Shane Garrity <shanedgarrity@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "stripe": "^6.6.0"
+  }
+}
